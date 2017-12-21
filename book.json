@@ -1,13 +1,17 @@
 {
   "title": "数学笔记",
   "plugins": [
-    
+    "changyan"
   ],
   "pluginsConfig": {
     "sharing": {
       "weibo": true,
       "twitter": false,
       "facebook": false
+    },
+    "changyan": {
+      "appid": "cysGPef2B",
+      "conf": "prod_d445a63c07de93d8947a4652e9ea69ad"
     }
   }
 }
