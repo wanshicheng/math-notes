@@ -1,7 +1,7 @@
 {
     "plugins": [
         "katex",
-        "sidebar-ad"
+        "sidebar-ad",
     ]
     "pluginsConfig": {
         "sidebar-ad": {
