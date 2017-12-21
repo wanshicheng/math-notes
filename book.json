@@ -1,4 +1,11 @@
 {
-
-
+    "plugins": [
+        "github",
+        "editlink",
+        "prism",
+        "baidu",
+        "ad",
+        "sitemap"
+      ],
+    
 }
