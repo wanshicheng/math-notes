@@ -1,3 +1,11 @@
 {
-
+  "plugins": [
+    "changyan"
+  ],
+  "pluginsConfig": {
+    "changyan": {
+      "appid": "your changyan's appid",
+      "conf": "the conf in the code generate by changyan"
+    }
+  }
 }
